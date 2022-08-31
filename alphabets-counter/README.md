@@ -7,7 +7,7 @@ ravinder
 ```
 
 The outcome of script would be 
-
+```
 ./findAlpabetCounts.sh names.txt
 2 a
 2 d
@@ -18,16 +18,18 @@ The outcome of script would be
 2 r
 1 s
 1 v
-
-Add other capabilityes
+```
+Add other capabilities
 
 Find only vowels
+```
 ./findAlpabetCounts.sh -c v names.txt
 2 a
 3 e
 1 i
-
+```
 Find only consonants
+```
 ./findAlpabetCounts.sh -c c names.txt
 2 d
 2 n
@@ -35,3 +37,4 @@ Find only consonants
 2 r
 1 s
 1 v
+```
