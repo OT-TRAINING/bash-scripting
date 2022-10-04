@@ -23,14 +23,14 @@ Add other capabilities
 
 Find only vowels
 ```
-./findAlpabetCounts.sh -c v names.txt
+./findAlpabetCounts.sh -f v names.txt
 2 a
 3 e
 1 i
 ```
 Find only consonants
 ```
-./findAlpabetCounts.sh -c c names.txt
+./findAlpabetCounts.sh -f c names.txt
 2 d
 2 n
 1 p
